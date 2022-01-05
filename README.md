@@ -1,7 +1,7 @@
 
 # Compeititve programming and coding interview training
 
-  
+*Total of problems solved at the moment:* **50**
 
 ## Objective
 
@@ -17,11 +17,10 @@
 * Beecrowd (old URI), represented by folder "beecrowd". To view the problem access `https://www.beecrowd.com.br/judge/en/problems/view/code` changing "code" for the code in the file name.
 * CSES Problem Set, represented by folder "cses". To view the problem access `https://cses.fi/problemset/task/code` changing "code" for the code in the file name.
 
-*Total of problems solved at the moment:* **35**
-
 ## Study material
 
 >  Materials I study to increase my problem-solving skills.
 
 * `https://cses.fi/book/book.pdf`
 * `https://neps.academy/br/codcad` (only available in portuguese)
+* The "_my_annotations" folder contains some more specific or more detailed subjects
