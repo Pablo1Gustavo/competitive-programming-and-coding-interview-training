@@ -1,7 +1,7 @@
 
 # Compeititve programming and coding interview training
 
-*Total of problems solved at the moment:* **50**
+*Total of problems solved at the moment:* **57**
 
 ## Objective
 
