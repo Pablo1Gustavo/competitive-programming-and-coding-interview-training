@@ -5,20 +5,20 @@
 
   
 
-*Total of problems solved at the moment:*  **65**
+*Total of problems solved at the moment:*  **69**
 
   
 
-## Objective
+## 🎯 Objective
 
   
 
->This is a public repository of my study in algorithms and data structure for programming competitions like OBI and Maratona SBC de Programação and coding interviews.
+>This is a public repository of my study in algorithms and data structure for programming competitions like Olímpiada Brasileira de Informática, Maratona SBC de Programação and coding interviews.
 
   
   
 
-## How to view the problem of the code
+## 📑 How to view the problem of the code
 
   
 
@@ -30,13 +30,15 @@
 
 * Google Code Jam, represented by folder "google_codejam". To view the problem access `https://codingcompetitions.withgoogle.com/codejam/round/contest_code/problem_code` changing "contest_code" and "problem_code" for the both codes, respectively, in the file name separeted by an underline.
 
+* Google Kick  Start, represented by folder "google_kickstart".  To view the problem access `https://codingcompetitions.withgoogle.com/kickstart/round/contest_code/problem_code` changing "contest_code" and "problem_code" for the both codes, respectively, in the file name separeted by an underline.
+
 * Beecrowd (old URI), represented by folder "beecrowd". To view the problem access `https://www.beecrowd.com.br/judge/en/problems/view/code` changing "code" for the code in the file name.
 
 * CSES Problem Set, represented by folder "cses". To view the problem access `https://cses.fi/problemset/task/code` changing "code" for the code in the file name.
 
   
 
-## Study material
+## 📚 Study material
 
   
 
