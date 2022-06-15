@@ -5,7 +5,7 @@
 
   
 
-*Total of problems solved at the moment:*  **77**
+*Total of problems solved at the moment:*  **80**
 
   
 
