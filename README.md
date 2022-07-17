@@ -5,7 +5,7 @@
 
   
 
-*Total of problems solved at the moment:*  **80**
+*Total of problems solved at the moment:*  **86**
 
   
 
@@ -49,5 +49,3 @@
 * [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 
 *  [Codcad](https://neps.academy/br/codcad) (only available in portuguese)
-
-* The "_my_annotations" folder contains some more specific or more detailed subjects
